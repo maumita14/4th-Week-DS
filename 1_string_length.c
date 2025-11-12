@@ -2,7 +2,7 @@
 #include<string.h>
 
 int main(void){
-    char string[]="Sukanya";
+    char string[]="Maumita";
 
     int length =strlen(string);
 
