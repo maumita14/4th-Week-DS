@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 int main() {
-    char string1[]="Sukanya";
-    char string2[]="Hazarika";
+    char string1[]="Maumita";
+    char string2[]="Sen";
     //s1>s2 pos
     //str1<str2 neg
     //str1=str2 0
